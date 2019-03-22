@@ -1,6 +1,6 @@
 ## VKPhotoLoader
 Скрипт для быстрого добавления одинаковых фото в свой альбом ВКонтакте.
-<p align="center"><img src="https://raw.githubusercontent.com/fiftythreecorp/VKPhotoLoader/master/limit.png"><br><a href='https://vk.com/id502486221' target='_blank'>example</a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/fiftythreecorp/VKPhotoLoader/master/limit.png"><br><a href='https://vk.com/id502486221' target='_blank'>> example <</a></p>
 
 ## Установка
 Для работы необходимо [скачать и установить Node.js](https://nodejs.org/en/download/),
