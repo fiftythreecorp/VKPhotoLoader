@@ -28,7 +28,7 @@ node loader.js
 - Лимит на загрузку фотографий: 10000 фото в сутки.
 - После 710,000 фотографий на аккаунте выдает ошибку при загрузке. В поддержке ответили, что фотографий на аккаунте слишком много, и для загрузки новых нужно удалить старые.
 - <img src="https://raw.githubusercontent.com/fiftythreecorp/VKPhotoLoader/master/limit.png">
-- <img src="https://raw.githubusercontent.com/fiftythreecorp/VKPhotoLoader/master/supprot.png">
+- <img src="https://raw.githubusercontent.com/fiftythreecorp/VKPhotoLoader/master/support.png">
 
     
 	
